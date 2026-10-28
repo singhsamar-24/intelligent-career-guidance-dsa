@@ -1,0 +1,4 @@
+# Intelligent Career Guidance Platform Dependencies
+# Built with pure Python standard library for zero external runtime overhead.
+# Testing framework:
+pytest>=8.0.0
